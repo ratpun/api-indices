@@ -1,0 +1,4 @@
+ipeadatapy
+pandas
+numpy
+requests
